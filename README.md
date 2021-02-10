@@ -1,5 +1,5 @@
 # Buscador de Imágenes
-### con Creator React App y Bootstrap
+### con Creator React App
 
 ![Error al cargar la imagen](https://github.com/viccoronado/imagesearch/blob/main/preview/1.png)
 ![Error al cargar la imagen](https://github.com/viccoronado/imagesearch/blob/main/preview/2.png)
