@@ -8,4 +8,4 @@
 Dentro de la carpeta del proyecto ejecuta `npm install`. Una vez que haya finalizado la instalación ejecuta `npm start`.
 
 ## Créditos
-Aplicación creada siguiendo un tutorial de [Juan Pablo de la Torre Valdez](https://github.com/juanpablogdl)
+Aplicación creada siguiendo un tutorial de [Juan Pablo de la Torre Valdez](https://github.com/juanpablogdl).
